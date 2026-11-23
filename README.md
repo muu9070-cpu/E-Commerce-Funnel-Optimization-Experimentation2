@@ -136,7 +136,6 @@ E-Commerce-Funnel-Optimization-Experimentation/
 └── README_CN.md
 ```
 
-Place the final five Power BI page screenshots in `assets/` using the filenames above so that GitHub renders them correctly. Adjust the tree if actual repository filenames differ.
 
 ## 8. Scope and Limitations
 
