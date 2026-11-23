@@ -1,0 +1,6 @@
+﻿metric,value,interpretation
+Z Statistic,14.791282783318435,Two-proportion Z-test
+P Value,1.667453045468959e-49,Two-sided statistical test
+Significance Level,0.05,Alpha threshold
+Absolute Uplift,0.006816208121984479,Treatment minus Control
+Relative Uplift,0.40023092860018616,Relative conversion improvement
