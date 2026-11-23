@@ -138,7 +138,6 @@ E-Commerce-Funnel-Optimization-Experimentation/
 └── README_CN.md
 ```
 
-请将最终 Power BI 五个页面的截图放入 `assets/` 文件夹，并使用上述文件名，以确保 GitHub 能够正确显示图片。如仓库实际文件名不同，请同步调整目录树。
 
 ## 八、项目范围与局限性
 
