@@ -1,0 +1,3 @@
+funnel_type,stage_1_view,stage_2_cart,stage_3_purchase,view_to_cart_rate,cart_to_purchase_rate,view_to_purchase_rate,max_observation_date
+User Funnel,3022130,336718,196474,11.1417,58.3497,6.5012,2019-10-31
+Session Funnel,9243001,569876,288767,6.1655,50.6719,3.1242,2019-10-31
