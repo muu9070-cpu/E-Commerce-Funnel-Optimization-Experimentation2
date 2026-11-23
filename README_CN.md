@@ -130,7 +130,11 @@ E-Commerce-Funnel-Optimization-Experimentation/
 │   ├── page4_retention_funnel.png
 │   └── page5_experiment_analysis.png
 ├── result_data/
-│   └── （分析结果文件）
+│   ├── Executive_Overview.png
+│   ├── Product & Brand_Analysis.png
+│   ├── User_Analysis.png
+│   ├── Retention & Funnel_Analysis.png
+│   └── Experiment_Analysis.png
 ├── ecommerce_analysis.sql
 ├── ecommerce_analysis.ipynb
 ├── ab_test_real_users.ipynb
